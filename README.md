@@ -40,6 +40,8 @@ We then look at the product ratios. The product ratios vary over time and see th
 
 Finally, we forecast the aggregated sales data, then use the GDP normalized country ratios, the store ratios, and the forecasted product ratios to deaggregate the aggregated sales forecast. 
 
+MAPE Score: 0.05938
+
 [![Diagram](images/forecasts.png)](images/forecasts.png)
 
 
